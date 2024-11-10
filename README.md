@@ -38,3 +38,7 @@ Feel free to explore, improve solutions, and even contribute your own challenges
 ## ⚙️ Project Structure
 
 The repository is organized by language/technology. Each folder contains specific challenges solved with that technology.
+Each folder contains:
+- Challenge Descriptions
+- Code Solutions
+- Explanations & Notes (where applicable)
